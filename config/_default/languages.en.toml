@@ -11,7 +11,7 @@ title = "misaka18931's posts"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© { year } misaka18931. This work is openly licensed via [<u>CC BY-NC-SA 4.0</u>](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
 [author]
   name = "misaka18931"
